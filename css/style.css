@@ -75,6 +75,15 @@
 
 }
 
+#lead {
+
+    color: #c78228;
+    margin-top: 25%;
+    margin-left: 70%;
+    width: 60%;
+    position: fixed;
+}
+
 .disabled {
     pointer-events: none;
     color: #cec8c5;
